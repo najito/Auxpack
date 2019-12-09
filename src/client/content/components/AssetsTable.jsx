@@ -27,5 +27,5 @@ const AssetsTable = props => {
     </table >)
 
 
-
+}
 export default AssetsTable;
